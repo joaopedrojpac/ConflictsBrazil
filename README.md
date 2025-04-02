@@ -13,5 +13,7 @@
 ![image](https://github.com/user-attachments/assets/7fc97753-014c-40f2-8e1f-fb664708c37a)
 ### Após o ajuste, o dataset ficou estruturado dessa forma:
 
-![image](https://github.com/user-attachments/assets/c8583a60-5bab-4068-a73a-815b4f3438d0)
+![image](https://github.com/user-attachments/assets/a1647e21-16f2-4429-b518-a885b97c4780)
+
+
 
